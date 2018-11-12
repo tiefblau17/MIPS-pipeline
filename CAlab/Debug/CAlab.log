@@ -1,0 +1,4 @@
+﻿  MIPS_pipeline.cpp
+d:\study\computing systems architecture\lab1\code-2018\mips_pipeline.cpp(191): warning C4018: '<': signed/unsigned mismatch
+d:\study\computing systems architecture\lab1\code-2018\mips_pipeline.cpp(255): warning C4101: 'ulonginst': unreferenced local variable
+  CAlab.vcxproj -> C:\Users\Dell\source\repos\CAlab\Debug\CAlab.exe
